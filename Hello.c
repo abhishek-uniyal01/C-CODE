@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 void main() {
-    printf("HELLO WORLD");
+    printf("HELLO PADMA");
 
     int res = sum(1,2);
     printf(res,'%d');
